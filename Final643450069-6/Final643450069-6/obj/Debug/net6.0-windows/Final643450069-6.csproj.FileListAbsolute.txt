@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\bin\Debug\net6.0-windows\Final643450069-6.exe
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\bin\Debug\net6.0-windows\Final643450069-6.deps.json
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\bin\Debug\net6.0-windows\Final643450069-6.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\bin\Debug\net6.0-windows\Final643450069-6.dll
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\bin\Debug\net6.0-windows\ref\Final643450069-6.dll
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\bin\Debug\net6.0-windows\Final643450069-6.pdb
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069-6.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069_6.Form1.resources
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069-6.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069-6.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069-6.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069-6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069-6.dll
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\ref\Final643450069-6.dll
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069-6.pdb
+C:\Users\Admin\Documents\GitHub\Final643450069-6\Final643450069-6\Final643450069-6\obj\Debug\net6.0-windows\Final643450069-6.genruntimeconfig.cache
